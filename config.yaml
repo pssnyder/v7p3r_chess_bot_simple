@@ -90,7 +90,7 @@ black_ai_config:
   ai_color: black                 
   depth: 2
   use_solutions: false
-  pst: true
+  pst: false
   pst_weight: 1.0
   move_ordering: false
   quiescence: false
